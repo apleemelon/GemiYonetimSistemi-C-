@@ -1,0 +1,92 @@
+c:\users\barış\documents\visual studio 2015\Projects\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\bin\Debug\Yük Gemisi Yönetim Sistemi.exe.config
+C:\Users\Barış\documents\visual studio 2015\Projects\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\bin\Debug\Yük Gemisi Yönetim Sistemi.exe
+C:\Users\Barış\documents\visual studio 2015\Projects\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\bin\Debug\Yük Gemisi Yönetim Sistemi.pdb
+C:\Users\Barış\documents\visual studio 2015\Projects\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\obj\Debug\Yük Gemisi Yönetim Sistemi.csprojResolveAssemblyReference.cache
+C:\Users\Barış\documents\visual studio 2015\Projects\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\obj\Debug\MainWindow.g.cs
+C:\Users\Barış\documents\visual studio 2015\Projects\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\obj\Debug\App.g.cs
+C:\Users\Barış\documents\visual studio 2015\Projects\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\obj\Debug\Yük Gemisi Yönetim Sistemi_MarkupCompile.cache
+C:\Users\Barış\documents\visual studio 2015\Projects\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\obj\Debug\Yük Gemisi Yönetim Sistemi_MarkupCompile.lref
+C:\Users\Barış\documents\visual studio 2015\Projects\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\obj\Debug\MainWindow.baml
+C:\Users\Barış\documents\visual studio 2015\Projects\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\obj\Debug\Yük Gemisi Yönetim Sistemi.g.resources
+C:\Users\Barış\documents\visual studio 2015\Projects\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\obj\Debug\Yük_Gemisi_Yönetim_Sistemi.Properties.Resources.resources
+C:\Users\Barış\documents\visual studio 2015\Projects\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\obj\Debug\Yük Gemisi Yönetim Sistemi.csproj.GenerateResource.Cache
+C:\Users\Barış\documents\visual studio 2015\Projects\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\obj\Debug\Yük Gemisi Yönetim Sistemi.exe
+C:\Users\Barış\documents\visual studio 2015\Projects\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\obj\Debug\Yük Gemisi Yönetim Sistemi.pdb
+C:\Users\Barış\documents\visual studio 2015\Projects\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\obj\Debug\firma.g.cs
+C:\Users\Barış\documents\visual studio 2015\Projects\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\obj\Debug\firma.baml
+C:\Users\Barış\documents\visual studio 2015\Projects\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\obj\Debug\gemi.g.cs
+C:\Users\Barış\documents\visual studio 2015\Projects\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\obj\Debug\gemi.baml
+C:\Users\Barış\documents\visual studio 2015\Projects\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\obj\Debug\seferq.g.cs
+C:\Users\Barış\documents\visual studio 2015\Projects\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\obj\Debug\seferq.baml
+C:\Users\Barış\documents\visual studio 2015\Projects\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\obj\Debug\personel1.g.cs
+C:\Users\Barış\documents\visual studio 2015\Projects\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\obj\Debug\personel1.baml
+C:\Users\Barış\documents\visual studio 2015\Projects\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\obj\Debug\GemiKayit.g.cs
+C:\Users\Barış\documents\visual studio 2015\Projects\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\obj\Debug\GemiKayit.baml
+C:\Users\Barış\documents\visual studio 2015\Projects\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\obj\Debug\SeferlerKayit.g.cs
+C:\Users\Barış\documents\visual studio 2015\Projects\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\obj\Debug\SeferlerKayit.baml
+C:\Users\Barış\documents\visual studio 2015\Projects\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\obj\Debug\PersonelKayit.g.cs
+C:\Users\Barış\documents\visual studio 2015\Projects\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\obj\Debug\PersonelKayit.baml
+C:\Users\Barış\documents\visual studio 2015\Projects\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\obj\Debug\firmakayit.g.cs
+C:\Users\Barış\documents\visual studio 2015\Projects\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\obj\Debug\firmakayit.baml
+E:\Seagate\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\bin\Debug\Yük Gemisi Yönetim Sistemi.exe.config
+E:\Seagate\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\bin\Debug\Yük Gemisi Yönetim Sistemi.exe
+E:\Seagate\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\bin\Debug\Yük Gemisi Yönetim Sistemi.pdb
+E:\Seagate\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\obj\Debug\Yük Gemisi Yönetim Sistemi.csprojAssemblyReference.cache
+E:\Seagate\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\obj\Debug\firmakayit.g.cs
+E:\Seagate\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\obj\Debug\gemi.g.cs
+E:\Seagate\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\obj\Debug\GemiKayit.g.cs
+E:\Seagate\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\obj\Debug\MainWindow.g.cs
+E:\Seagate\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\obj\Debug\firma.g.cs
+E:\Seagate\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\obj\Debug\personel1.g.cs
+E:\Seagate\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\obj\Debug\PersonelKayit.g.cs
+E:\Seagate\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\obj\Debug\SeferlerKayit.g.cs
+E:\Seagate\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\obj\Debug\seferq.g.cs
+E:\Seagate\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\obj\Debug\App.g.cs
+E:\Seagate\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\obj\Debug\Yük Gemisi Yönetim Sistemi_MarkupCompile.cache
+E:\Seagate\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\obj\Debug\Yük Gemisi Yönetim Sistemi_MarkupCompile.lref
+E:\Seagate\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\obj\Debug\firmakayit.baml
+E:\Seagate\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\obj\Debug\gemi.baml
+E:\Seagate\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\obj\Debug\GemiKayit.baml
+E:\Seagate\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\obj\Debug\MainWindow.baml
+E:\Seagate\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\obj\Debug\firma.baml
+E:\Seagate\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\obj\Debug\personel1.baml
+E:\Seagate\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\obj\Debug\PersonelKayit.baml
+E:\Seagate\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\obj\Debug\SeferlerKayit.baml
+E:\Seagate\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\obj\Debug\seferq.baml
+E:\Seagate\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\obj\Debug\Yük Gemisi Yönetim Sistemi.g.resources
+E:\Seagate\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\obj\Debug\Yük_Gemisi_Yönetim_Sistemi.Properties.Resources.resources
+E:\Seagate\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\obj\Debug\Yük Gemisi Yönetim Sistemi.csproj.GenerateResource.cache
+E:\Seagate\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\obj\Debug\Yük Gemisi Yönetim Sistemi.csproj.CoreCompileInputs.cache
+E:\Seagate\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\obj\Debug\Yük Gemisi Yönetim Sistemi.exe
+E:\Seagate\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\obj\Debug\Yük Gemisi Yönetim Sistemi.pdb
+C:\Users\baris\OneDrive\Masaüstü\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\bin\Debug\Yük Gemisi Yönetim Sistemi.exe.config
+C:\Users\baris\OneDrive\Masaüstü\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\bin\Debug\Yük Gemisi Yönetim Sistemi.exe
+C:\Users\baris\OneDrive\Masaüstü\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\bin\Debug\Yük Gemisi Yönetim Sistemi.pdb
+C:\Users\baris\OneDrive\Masaüstü\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\obj\Debug\Yük Gemisi Yönetim Sistemi.csprojAssemblyReference.cache
+C:\Users\baris\OneDrive\Masaüstü\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\obj\Debug\firmakayit.g.cs
+C:\Users\baris\OneDrive\Masaüstü\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\obj\Debug\gemi.g.cs
+C:\Users\baris\OneDrive\Masaüstü\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\obj\Debug\GemiKayit.g.cs
+C:\Users\baris\OneDrive\Masaüstü\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\obj\Debug\MainWindow.g.cs
+C:\Users\baris\OneDrive\Masaüstü\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\obj\Debug\firma.g.cs
+C:\Users\baris\OneDrive\Masaüstü\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\obj\Debug\personel1.g.cs
+C:\Users\baris\OneDrive\Masaüstü\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\obj\Debug\PersonelKayit.g.cs
+C:\Users\baris\OneDrive\Masaüstü\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\obj\Debug\SeferlerKayit.g.cs
+C:\Users\baris\OneDrive\Masaüstü\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\obj\Debug\seferq.g.cs
+C:\Users\baris\OneDrive\Masaüstü\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\obj\Debug\App.g.cs
+C:\Users\baris\OneDrive\Masaüstü\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\obj\Debug\Yük Gemisi Yönetim Sistemi_MarkupCompile.cache
+C:\Users\baris\OneDrive\Masaüstü\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\obj\Debug\Yük Gemisi Yönetim Sistemi_MarkupCompile.lref
+C:\Users\baris\OneDrive\Masaüstü\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\obj\Debug\firmakayit.baml
+C:\Users\baris\OneDrive\Masaüstü\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\obj\Debug\gemi.baml
+C:\Users\baris\OneDrive\Masaüstü\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\obj\Debug\GemiKayit.baml
+C:\Users\baris\OneDrive\Masaüstü\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\obj\Debug\MainWindow.baml
+C:\Users\baris\OneDrive\Masaüstü\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\obj\Debug\firma.baml
+C:\Users\baris\OneDrive\Masaüstü\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\obj\Debug\personel1.baml
+C:\Users\baris\OneDrive\Masaüstü\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\obj\Debug\PersonelKayit.baml
+C:\Users\baris\OneDrive\Masaüstü\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\obj\Debug\SeferlerKayit.baml
+C:\Users\baris\OneDrive\Masaüstü\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\obj\Debug\seferq.baml
+C:\Users\baris\OneDrive\Masaüstü\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\obj\Debug\Yük Gemisi Yönetim Sistemi.g.resources
+C:\Users\baris\OneDrive\Masaüstü\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\obj\Debug\Yük_Gemisi_Yönetim_Sistemi.Properties.Resources.resources
+C:\Users\baris\OneDrive\Masaüstü\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\obj\Debug\Yük Gemisi Yönetim Sistemi.csproj.GenerateResource.cache
+C:\Users\baris\OneDrive\Masaüstü\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\obj\Debug\Yük Gemisi Yönetim Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\baris\OneDrive\Masaüstü\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\obj\Debug\Yük Gemisi Yönetim Sistemi.exe
+C:\Users\baris\OneDrive\Masaüstü\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\Yük Gemisi Yönetim Sistemi\obj\Debug\Yük Gemisi Yönetim Sistemi.pdb

@@ -1,0 +1,24 @@
+﻿<Window x:Class="Yük_Gemisi_Yönetim_Sistemi.GemiKayit"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Yük_Gemisi_Yönetim_Sistemi"
+        mc:Ignorable="d"
+        Title="GemiKayit" Height="700" Width="1000">
+    <Grid>
+        <DataGrid x:Name="dataGrid1" HorizontalAlignment="Left" Margin="135,150,0,0" VerticalAlignment="Top" Height="247" Width="768" SelectionChanged="dataGrid_SelectionChanged"/>
+        <Rectangle HorizontalAlignment="Left" Height="100" Stroke="Black" VerticalAlignment="Top" Width="100">
+            <Rectangle.Fill>
+                <ImageBrush ImageSource="images/logo2.jpg"/>
+            </Rectangle.Fill>
+        </Rectangle>
+        <Button x:Name="button1" Content="Geri " HorizontalAlignment="Left" Margin="174,24,0,0" VerticalAlignment="Top" Width="109" Click="button1_Click" Height="30" Background="#FF3399FF" Foreground="White"/>
+        <Button x:Name="button" Content="Sil" HorizontalAlignment="Left" Margin="696,24,0,0" VerticalAlignment="Top" Width="93" Height="30" Click="button_Click_1" Background="White" Foreground="#FF3399FF" FontSize="14" BorderBrush="#FF3399FF"/>
+        <TextBox x:Name="textBox_silicek" HorizontalAlignment="Left" Height="30" Margin="517,24,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="146" TextChanged="textBox_silicek_TextChanged"/>
+        <Label x:Name="label" Content="Silinecek Ögeyi Yazınız=" HorizontalAlignment="Left" Margin="333,23,0,0" VerticalAlignment="Top" Width="179" Background="White" Foreground="#FF3399FD" FontSize="16"/>
+        <TextBox x:Name="textbox_ara" HorizontalAlignment="Left" Height="30" Margin="779,104,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="203" TextChanged="textbox_ara_TextChanged"/>
+        <Label x:Name="label_Copy" Content="Ara:" HorizontalAlignment="Left" Margin="713,104,0,0" VerticalAlignment="Top" Width="48" Background="White" Foreground="#FF3399FD" FontSize="16"/>
+
+    </Grid>
+</Window>

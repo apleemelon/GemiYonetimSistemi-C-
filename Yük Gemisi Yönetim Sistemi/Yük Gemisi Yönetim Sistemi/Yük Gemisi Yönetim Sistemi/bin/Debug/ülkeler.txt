@@ -1,0 +1,249 @@
+AD - Andorra
+AE - Birleþik Arap Emirlikleri
+AF - Afganistan
+AG - Antigua ve Barbuda
+AI - Anguilla
+AL - Arnavutluk
+AM - Ermenistan
+AO - Angola
+AQ - Antarktika
+AR - Arjantin
+AS - Amerikan Samoasý
+AT - Avusturya
+AU - Avustralya
+AW - Aruba
+AZ - Azerbaycan
+BA - Bosna-Hersek
+BB - Barbados
+BD - Bangladeþ
+BE - Belçika
+BF - Burkina Faso
+BG - Bulgaristan
+BH - Bahreyn
+BI - Burundi
+BJ - Benin
+BL - Saint Barthelemy
+BM - Bermuda
+BN - Brunei
+BO - Bolivya
+BR - Brezilya
+BS - Bahamalar
+BT - Bhutan
+BV - Bouvet Adasi
+BW - Botsvana
+BY - Beyaz Rusya
+BZ - Belize
+CA - Kanada
+CC - Cocos (Keyling) Adalari
+CD - Demokratik Kongo Cumhuriyeti
+CF - Orta Afrika Cumhuriyeti
+CG - Kongo Cumhuriyeti
+CH - Ýsviçre
+CI - Fildiþi Sahili
+CK - Cook Adalari
+CL - Þili
+CM - Kamerun
+CN - Çin
+CO - Kolombiya
+CR - Kosta Rika
+CU - Küba
+CV - Yeþil Burun Adalari
+CW - Curaçao
+CX - Christmas Adasi
+CY - Kibris
+CZ - Çek Cumhuriyeti
+DE - Almanya
+DJ - Cibuti
+DK - Danimarka
+DM - Dominika
+DO - Dominik Cumhuriyeti
+DZ - Cezayir
+EC - Ekvador
+EE - Estonya
+EG - Misir
+EH - Bati Sahra
+ER - Eritre
+ES - Ýspanya
+ET - Etiyopya
+FI - Finlandiya
+FJ - Fiji
+FK - Falkland Adalari (Islas Malvinas)
+FM - Mikronezya Federal Devletleri
+FO - Faroe Adalari
+FR - Fransa
+FX - Metropolitan Fransa
+GA - Gabon
+GB - Birleþik Krallik
+GD - Grenada
+GE - Gürcistan
+GF - Fransiz Guyanasi
+GG - Guernsey
+GH - Gana
+GI - Cebelitarik
+GL - Grönland
+GM - Gambiya
+GN - Gine
+GP - Guadeloupe
+GQ - Ekvator Ginesi
+GR - Yunanistan
+GS - Güney Georgia ve Güney Sandwich Adalari
+GT - Guatemala
+GU - Guam
+GW - Gine-Bissau
+GY - Guyana
+HK - Hong Kong
+HM - Heard Adasi ve McDonald Adalari
+HN - Honduras
+HR - Hirvatistan
+HT - Haiti
+HU - Macaristan
+ID - Irlanda
+IL - Israil
+IM - Man Adasi
+IN - Hindistan
+IO - Britanya Hint Okyanusu Topraklari
+IQ - Irak
+IR - Iran
+IS - Izlanda
+IT - Italya
+JE - Jersey
+JM - Jamaika
+JO - Urdun
+JP - Japonya
+KE - Kenya
+KG - Kirgizistan
+KH - Kamboçya
+KI - Kiribati
+KM - Komorlar
+KN - Saint Kitts ve Nevis
+KP - Kuzey Kore
+KR - Güney Kore
+KW - Kuveyt
+KY - Cayman Adalari
+KZ - Kazakistan
+LA - Laos
+LB - Lübnan
+LC - Saint Lucia
+LI - Lihtenþtayn
+LK - Sri Lanka
+LR - Liberya
+LS - Lesotho
+LT - Litvanya
+LU - Lüksemburg
+LV - Letonya
+LY - Libya
+MA - Fas
+MC - Monako
+MD - Moldova
+ME - Karadag
+MF - Saint Martin
+MG - Madagaskar
+MH - Marshall Adalari
+MK - Makedonya
+ML - Mali
+MM - Burma
+MN - Mogolistan
+MO - Makao
+MP - Kuzey Mariana Adalari
+MQ - Martinique
+MR - Moritanya
+MS - Montserrat
+MT - Malta
+MU - Mauritius
+MV - Maldivler
+MW - Malavi
+MX - Meksika
+MY - Malezya
+MZ - Mozambik
+NA - Namibya
+NC - Yeni Kaledonya
+NE - Nijer
+NF - Norfolk Adasi
+NG - Nijerya
+NI - Nikaragua
+NL - Hollanda
+NO - Norveç
+NP - Nepal
+NR - Nauru
+NU - Niue
+NZ - Yeni Zelanda
+OM - Umman
+PA - Panama
+PE - Peru
+PF - Fransiz Polinezyasi
+PG - Papua Yeni Gine
+PH - Filipinler
+PK - Pakistan
+PL - Polonya
+PM - Saint Pierre ve Miquelon
+PN - Pitcairn Adalari
+PR - Porto Riko
+PS - Gazze
+PS - Bati Seria
+PT - Portekiz
+PW - Palau
+PY - Paraguay
+QA - Katar
+RE - Reunion
+RO - Romanya
+RS - Sirbistan
+RU - Rusya
+RW - Ruanda
+SA - Suudi Arabistan
+SB - Solomon Adalari
+SC - Seyseller
+SD - Sudan
+SE - Ýsvec
+SG - Singapur
+SH - Saint Helena, Ascension ve Tristan da Cunha
+SI - Slovenya
+SJ - Svalbard
+SK - Slovakya
+SL - Sierra Leone
+SM - San Marino
+SN - Senegal
+SO - Somali
+SR - Surinam
+SS - Guney Sudan
+ST - Sao Tome ve Principe
+SV - El Salvador
+SX - Saint Martin
+SY - Suriye
+SZ - Svaziland
+TC - Turks ve Caicos Adalari
+TD - Çad
+TF - Fransiz Güney ve Antarktik Topraklari
+TG - Togo
+TH - Tayland
+TJ - Tacikistan
+TK - Tokelau
+TL - Doðu Timor
+TM - Turkmenistan
+TN - Tunus
+TO - Tonga
+TR - Turkiye
+TT - Trinidad ve Tobago
+TV - Tuvalu
+W - Tayvan
+ - Tanzanya
+ - Ukrayna
+- Uganda
+ - Amerika Birlesik Devletleri Kücük Dis Adalari
+- Birleþik Devletler
+ - Uruguay
+ - Özbekistan
+ - Vatikan
+ Saint Vincent ve Grenadinler
+ Venezuela
+ Britanya Virjin Adalari
+ Virjin Adalari
+ Vietnam
+ Vanuatu
+ Wallis ve Futuna
+ Samoa
+ Kosova
+ Yemen
+ Mayotte
+ Guney Afrika
+ Zambiya
+ Zimbabve
